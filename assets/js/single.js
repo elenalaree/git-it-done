@@ -79,6 +79,7 @@ var getRepoIssues = function(repo) {
 };
 
 
+
 var displayWarning = function(repo) {
     // add text to warning container
     limitWarningEl.textContent = "To see more than 30 issues, visit ";
